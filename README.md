@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+I love music! Haha!
+My hobby is Chinese food.
